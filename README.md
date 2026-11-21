@@ -109,7 +109,7 @@ Add:
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
-Never upload your API key to GitHub.
+
 
 ## Run the Project
 
